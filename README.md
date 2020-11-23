@@ -1,3 +1,3 @@
 # Yihaodian-
-complete shopping website
-after downloading, unzip the images folder
+Complete shopping website.
+After downloading, unzip the images folder
